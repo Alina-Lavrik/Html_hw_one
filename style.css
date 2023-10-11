@@ -1,6 +1,3 @@
-body {
-    font-family: sans-serif;
-}
 
 a {
     text-decoration: none; 
@@ -34,7 +31,8 @@ a {
     font-size: 36px;
     line-height: 80px;
 }
-
+ /* Дополнительно */
+ 
 .para {
     color: brown;
     font-style: normal;
@@ -48,4 +46,8 @@ a {
     font-size: 20px;
     line-height: 30px;
     font-weight: bold;
+}
+
+body {
+    font-family: sans-serif;
 }
